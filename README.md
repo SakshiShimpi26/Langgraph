@@ -307,13 +307,6 @@ streamlit run frontend.py
 - Interruptible execution pipelines  
 - Persistent AI systems  
 - End-to-end workflow engineering  
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A1C71,100:D76D77&height=120&section=footer"/>
-</p>
-
 ---
 
 # 👩‍💻 Author
