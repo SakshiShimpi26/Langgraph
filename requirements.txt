@@ -1,0 +1,9 @@
+langchain
+langgraph
+langchain-google-genai 
+langchain-openai
+python-dotenv
+streamlit
+langgraph-checkpoint-sqlite
+duckduckgo-search
+langchain-community
